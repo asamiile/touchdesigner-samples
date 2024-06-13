@@ -1,10 +1,10 @@
-# Art TouchDesigner Repository
+# TouchDesigner Samples
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-These are a collection of touchdesigner components.
+These are a collection of touchdesigner samples.
 
 <!-- ## Requirement -->
 
