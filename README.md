@@ -12,9 +12,25 @@ These are a collection of touchdesigner samples.
 
 <!-- ## Features -->
 
+## Directory
+
+```
+touchdesigner-samples
+├── audio_visual
+├── midi
+├── ui
+└── visual
+```
+
+
 ## Reference
 
-[TOUCHDESIGNER](https://derivative.ca/)
+>[TOUCHDESIGNER](https://derivative.ca/)
+
+>[bileam tschepe (elekktronaut)](https://www.youtube.com/@elekktronaut)
+
+>[The Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ/playlists)
+
 
 ## Author
 
