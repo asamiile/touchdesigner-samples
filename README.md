@@ -16,8 +16,13 @@ These are a collection of touchdesigner samples.
 
 ```
 touchdesigner-samples
+├── animation
 ├── audio_visual
+├── base         - base file
+├── filter
+├── images       - Expelimental Image files.
 ├── midi
+├── object
 ├── ui
 └── visual
 ```
