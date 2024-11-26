@@ -1,8 +1,5 @@
 # macOS
 .DS_Store
 
-# movie files.
-*.mov
-
 # Cache Files.
 *.tdc
