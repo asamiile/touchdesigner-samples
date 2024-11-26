@@ -3,3 +3,6 @@
 
 # Cache Files.
 *.tdc
+
+# Plateau Files.
+assets/plateau/*
