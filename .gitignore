@@ -4,5 +4,12 @@
 # Cache Files.
 *.tdc
 
+# Image Files.
+*/Image/
+
+# Movie Files.
+*/Movie/
+
+
 # Plateau Files.
 assets/plateau/*
