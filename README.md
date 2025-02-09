@@ -16,12 +16,8 @@ These are a collection of touchdesigner samples.
 
 ```
 touchdesigner-samples
-├── animation
-├── assets       - Assets files.
 ├── audio
-├── base         - base file
-├── filter
-├── object
+├── template
 ├── ui
 └── visual
 ```
