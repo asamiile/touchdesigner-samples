@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-# Cache Files.
+# TouchDesigner Cache Files.
 *.tdc
 
 # Image Files.
@@ -9,6 +9,12 @@
 
 # Movie Files.
 */Movie/
+
+# Geo Files.
+*/Geo/
+
+# Channels Files.
+*/Chan/
 
 
 # Plateau Files.
