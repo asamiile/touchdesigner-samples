@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# TouchDesigner Backup Files.
+*/Backup/
+
 # TouchDesigner Cache Files.
 *.tdc
 
@@ -18,4 +21,4 @@
 
 
 # Plateau Files.
-assets/plateau/*
+*/plateau/
