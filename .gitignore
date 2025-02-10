@@ -2,23 +2,23 @@
 .DS_Store
 
 # TouchDesigner Backup Files.
-*/Backup/
+**/Backup/
 
 # TouchDesigner Cache Files.
 *.tdc
 
 # Image Files.
-*/Image/
+**/Image/
 
 # Movie Files.
-*/Movie/
+**/Movie/
 
 # Geo Files.
-*/Geo/
+**/Geo/
 
 # Channels Files.
-*/Chan/
+**/Chan/
 
 
 # Plateau Files.
-*/plateau/
+**/plateau/
