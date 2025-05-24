@@ -9,9 +9,11 @@
 
 # Image Files.
 **/Image/
+/assets/image/
 
 # Movie Files.
 **/Movie/
+/assets/movie/
 
 # Geo Files.
 **/Geo/
@@ -21,4 +23,5 @@
 
 
 # Plateau Files.
-**/plateau/
+/_experimental/plateau/
+/assets/plateau/
