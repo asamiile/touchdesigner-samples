@@ -22,3 +22,6 @@
 # Plateau Files.
 /_experimental/plateau/
 /assets/plateau/
+
+# Output Files.
+/output/
