@@ -8,19 +8,16 @@
 *.tdc
 
 # Image Files.
-**/Image/
 /assets/image/
 
 # Movie Files.
-**/Movie/
 /assets/movie/
 
 # Geo Files.
-**/Geo/
+/assets/geo/
 
 # Channels Files.
-**/Chan/
-
+/assets/chan/
 
 # Plateau Files.
 /_experimental/plateau/
