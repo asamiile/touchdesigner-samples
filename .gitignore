@@ -10,6 +10,10 @@
 # Assets Files.
 /assets/
 
+*.mp4
+*.mov
+*.avi
+
 # Plateau Files.
 /_experimental/plateau/
 
