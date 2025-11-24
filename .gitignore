@@ -7,21 +7,16 @@
 # TouchDesigner Cache Files.
 *.tdc
 
-# Image Files.
-/assets/image/
+# Assets Files.
+/assets/
 
-# Movie Files.
-/assets/movie/
-
-# Geo Files.
-/assets/geo/
-
-# Channels Files.
-/assets/chan/
+# Video Files.
+*.mp4
+*.mov
+*.avi
 
 # Plateau Files.
 /_experimental/plateau/
-/assets/plateau/
 
 # Output Files.
 /output/
