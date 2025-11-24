@@ -10,6 +10,7 @@
 # Assets Files.
 /assets/
 
+# Video Files.
 *.mp4
 *.mov
 *.avi
